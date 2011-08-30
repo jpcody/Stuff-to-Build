@@ -9,4 +9,4 @@
  
 ### Textmate
 
-* Format JavaScript on serve
+* Format JavaScript on save
