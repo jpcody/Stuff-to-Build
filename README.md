@@ -6,3 +6,7 @@
 ### AppleScript
 
 * Take highlighted text and upload to private Gist
+ 
+### Textmate
+
+* Format JavaScript on serve
