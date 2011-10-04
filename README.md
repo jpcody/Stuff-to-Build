@@ -5,7 +5,7 @@
 
 ### AppleScript
 
-* **Done.** Take highlighted text and upload to private Gist - https://gist.github.com/1190336
+* **Done.** <del>Take highlighted text and upload to private Gist</del> - https://gist.github.com/1190336
  
 ### Textmate
 
