@@ -5,8 +5,12 @@
 
 ### AppleScript
 
-* Take highlighted text and upload to private Gist
+* **Done.** Take highlighted text and upload to private Gist - https://gist.github.com/1190336
  
 ### Textmate
 
 * Format JavaScript on save
+
+### Ruby
+
+* Create gem that simply looks for inline images in a stylesheet, parses them as data URIs, and provides an IE7 fallback.
